@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 root: .
 title: Licenses
 ---
@@ -71,4 +71,5 @@ and is made available under the same MIT License as our software.
 ### Trademark
 
 "Software Carpentry" and the Software Carpentry logo are registered
-trademarks of the Software Carpentry Foundation.
+trademarks of Software Carpentry, Ltd.
+
